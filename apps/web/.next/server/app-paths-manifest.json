@@ -1,0 +1,6 @@
+{
+  "/(root)/user/[userId]/page": "app/(root)/user/[userId]/page.js",
+  "/page": "app/page.js",
+  "/(root)/driver/[driverId]/page": "app/(root)/driver/[driverId]/page.js",
+  "/(root)/admin/page": "app/(root)/admin/page.js"
+}
